@@ -1,2 +1,2 @@
 # SuperSimpleWorkoutTracker
-SuperSimpleWorkOutTracker
+SuperSimpleWorkOutTracker is a mobile app
